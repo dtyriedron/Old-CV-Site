@@ -2,7 +2,7 @@
 title = "Title of the post 5"
 date = "2018-10-10"
 tags = ["other"]
-categories = ["Category 11"]
+languages = ["Category 11"]
 description = "A brief summary for the post 5"
 +++
 

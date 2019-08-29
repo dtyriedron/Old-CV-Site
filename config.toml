@@ -16,17 +16,17 @@ theme = "mero"
     weight = 100
 
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    title = "posts"
-    url = "/posts/"
+    identifier = "projects"
+    name = "Projects"
+    title = "projects"
+    url = "/projects/"
     weight = 200
 
   [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    title = "categories"
-    url = "/categories/"
+    identifier = "languages"
+    name = "Languages"
+    title = "languages"
+    url = "/languages/"
     weight = 300    
 
   [[menu.main]]
